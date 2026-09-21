@@ -1,7 +1,7 @@
 # String file for DateTime plugin
 
 PLUGIN_SCREENSAVER_DATETIME
-	CA	Data i hora
+	CA	Dia i hora
 	CS	Datum a čas
 	DA	Dato og klokkeslæt
 	DE	Datum und Zeit
@@ -19,7 +19,7 @@ PLUGIN_SCREENSAVER_DATETIME
 	SV	Datum och tid
 
 PLUGIN_SCREENSAVER_DATETIME_DESC
-	CA	Protector de pantalla de data i hora
+	CA	Protector de pantalla de dia i hora
 	CS	Spořič obrazovky s datem a časem
 	DA	Pauseskærm med dato og klokkeslæt
 	DE	Bildschirmschoner: Datum/Zeit
@@ -37,7 +37,7 @@ PLUGIN_SCREENSAVER_DATETIME_DESC
 	SV	Skärmsläckare med datum och tid
 
 SETUP_GROUP_DATETIME_DESC
-	CA	Aquests paràmetres controlen el comportament del protector de pantalla de data i hora
+	CA	Aquests paràmetres controlen el comportament del protector de pantalla de dia i hora
 	CS	Tato nastavení ovládají chování spořiče obrazovky s datem a časem
 	DA	Disse indstillinger er bestemmende for hvordan pauseskærmen Dato og klokkeslæt fungerer.
 	DE	Hier können Sie das Format des Bildschirmschoners 'Datum/Zeit' festlegen.
