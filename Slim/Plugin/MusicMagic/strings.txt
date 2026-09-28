@@ -18,7 +18,7 @@ MUSICMAGIC
 	SV	MusicIP
 
 MUSICMAGIC_DESC
-	CA	Inteegració amb MusicIP
+	CA	Integració amb MusicIP
 	CS	Integrace MusicIP
 	DA	Integration med MusicIP
 	DE	MusicIP Integration
@@ -73,7 +73,7 @@ SETUP_MUSICMAGICPLAYLISTFORMAT_DESC
 	ZH_CN	这个选项决定了导入MusicIP播放表所使用的格式。
 
 SETUP_MIX_TYPE
-	CA	Tipus barreja
+	CA	Tipus de mescla
 	CS	Typ mixu
 	DA	Mikstype
 	DE	Mix: Typ
@@ -92,7 +92,7 @@ SETUP_MIX_TYPE
 	ZH_CN	混音类型
 
 SETUP_MIX_SIZE
-	CA	Mida de la barreja
+	CA	Mida de la mescla
 	CS	Velikost mixu
 	DA	Miks: størrelse
 	DE	Mix: Größe
@@ -111,7 +111,7 @@ SETUP_MIX_SIZE
 	ZH_CN	混音量
 
 SETUP_MIX_SIZE_DESC
-	CA	Trieu la mida de la barreja
+	CA	Trieu la mida de la mescla
 	CS	Zvolte velikost mixu
 	DA	Vælg størrelse af miks
 	DE	Mix-Größe wählen
@@ -130,7 +130,7 @@ SETUP_MIX_SIZE_DESC
 	ZH_CN	请选择MusicIP混音量
 
 SETUP_MIX_FILTER
-	CA	Filtre de barreja
+	CA	Filtre de mescla
 	CS	Filtr mixu
 	DA	Miksfilter
 	DE	Mixfilter
@@ -206,7 +206,7 @@ SETUP_MIX_GENRE_FILTER_DESC
 	ZH_CN	从您的音乐库中选择一个或多个要从MusicIP混音中排除的曲风。如果不选择任何曲风，则允许所有曲风。
 
 SETUP_MIX_GENRE
-	CA	Gènere de barreja
+	CA	Gènere de mescla
 	CS	Mix žánru
 	DA	Miks: Genre
 	DE	Mix: Musikstil
@@ -225,7 +225,7 @@ SETUP_MIX_GENRE
 	ZH_CN	混音曲风
 
 SETUP_MIX_GENRE_DESC
-	CA	Restringeix la barreja al gènere de la llavor (per defecte: no)
+	CA	Restringeix la mescla al gènere de la llavor (per defecte: no)
 	CS	Omezit mix na žánr výchozí skladby (Výchozí: ne)
 	DA	Begræns miks til samme genre som det første valg (Standardværdi: Nej)
 	DE	Beschränkung des Mix auf die Musikstile des Seeds (Standardwert: nein)
@@ -300,7 +300,7 @@ SETUP_REJECT_SIZE_DESC
 	ZH_CN	配置重播一类别前跳过的数量（确省:12)
 
 SETUP_MIX_STYLE
-	CA	Estil de la barreja
+	CA	Estil de la mescla
 	CS	Mix stylu
 	DA	Miks: Stil
 	DE	Mix: Stil
@@ -319,7 +319,7 @@ SETUP_MIX_STYLE
 	ZH_CN	混音风格
 
 SETUP_MIX_STYLE_DESC
-	CA	Quant s'assembla a l'estil de l'artista (0 = ignorar (per defecte), 200 = estricte)
+	CA	Semblança amb l'estil de l'artista (0 = ignorar (per defecte), 200 = estricte)
 	CS	Jak moc se podobá stylu interpreta (0 = ignorovat (výchozí), 200 = striktně)
 	DA	Hvor meget som kunstnerens stil (0 = ignorer (standard), 200 = streng)
 	DE	Wie ähnlich soll der Stil des Interpreten sein? 0=ignorieren (Standard), 200=sehr ähnlich
@@ -338,7 +338,7 @@ SETUP_MIX_STYLE_DESC
 	ZH_CN	有多接近艺人的风格 （0=不理睬（缺省），200=严格）
 
 SETUP_MIX_VARIETY
-	CA	Varietat de la barreja
+	CA	Varietat de la mescla
 	CS	Mix rozmanitosti
 	DA	Miksx: Variation
 	DE	Mix: Vielseitigkeit
@@ -357,7 +357,7 @@ SETUP_MIX_VARIETY
 	ZH_CN	混音品种变化
 
 SETUP_MIX_VARIETY_DESC
-	CA	Quanta varietat hi ha a la barreja (0 = menys (per defecte), 9 = més)
+	CA	Quanta varietat hi ha a la mescla (0 = menys (per defecte), 9 = més)
 	CS	Jaká je rozmanitost mixu (0 = méně (výchozí), 9 = více)
 	DA	Hvor meget variation i mix (0 = lille (standard), 9 mere)
 	DE	Wie vielseitig soll der Mix sein? 0 = weniger (Standard), 9 = mehr
@@ -376,7 +376,7 @@ SETUP_MIX_VARIETY_DESC
 	ZH_CN	混音的变化程度 （0=少（缺省），9=多）
 
 MUSICMAGIC_MIXING
-	CA	Barreja MusicIP
+	CA	Mescla MusicIP
 	CS	Mixování MusicIP
 	DA	MusicIP: Miksning
 	DE	MusicIP-Mixing
@@ -395,7 +395,7 @@ MUSICMAGIC_MIXING
 	ZH_CN	MusicIP混音
 
 SETUP_MMMPLAYERSETTINGS
-	CA	Configuració del reproductor per a cada barreja
+	CA	Configuració del reproductor per a cada mescla
 	CS	Nastavení přehrávače pro každý mix
 	DA	Afspillerindstillinger for hvert miks
 	DE	Mix-Player-Einstellungen
@@ -414,7 +414,7 @@ SETUP_MMMPLAYERSETTINGS
 	ZH_CN	播放机上各个混音的设置
 
 SETUP_MMMPLAYERSETTINGS_DESC
-	CA	Podeu optar per donar accés a cada reproductor a la configuració de la mescla de MusicIP abans de generar una barreja. Qualsevol configuració escollida pel reproductor anul·larà la configuració del servidor i es mantindrà fins que es torni a canviar des del reproductor. Si voleu passar directament a la creació d'una barreja utilitzant només la configuració del reproductor/servidor existent, trieu "no".
+	CA	Podeu optar per donar accés a cada reproductor a la configuració de la mescla de MusicIP abans de generar una mescla. Qualsevol configuració escollida pel reproductor anul·larà la configuració del servidor i es mantindrà fins que es torni a canviar des del reproductor. Si voleu passar directament a la creació d'una mescla utilitzant només la configuració del reproductor/servidor existent, trieu "no".
 	CS	Můžete si zvolit přidělení přístupu k nastavení MusicIP mixu pro každý přehrávač před vytvořením mixu. Jakékoli nastavení zvolené pro přehrávač bude mít přednost před nastavením serveru a bude zachováno, dokud z přehrávače nebude znovu změněno. Pokud chcete přeskočit přímo k vytvoření mixu s použitím existujícího nastavení přehrávače/serveru, zvolte Ne.
 	DA	Du kan vælge at give hver enkelt afspiller adgang til indstillingerne for MusicIP Mix før du opretter et miks. Alle indstillinger som vælges på afspilleren, har forrang frem for serverindstillingerne indtil de ændres igen på afspilleren. Hvis du vil gå videre og begynde at oprette et miks vha. de eksisterende indstillinger på afspilleren og serveren, skal du vælge Nej.
 	DE	Vor dem Erzeugen eines Mix können Sie jedem Player Zugriff auf die MusicIP-Mix-Einstellungen geben. Auf dem Player gewählte Einstellungen setzen die Server-Einstellungen außer Kraft und werden gespeichert, bis Sie wieder am Player geändert werden. Wenn Sie gleich einen Mix mit den vorhandenen Server- bzw. Player-Einstellungen erstellen möchten, wählen Sie 'Nein'.
@@ -433,7 +433,7 @@ SETUP_MMMPLAYERSETTINGS_DESC
 	ZH_CN	您可以选择在生成混音之前让每一个播放机都拥有访问MusicIP混音设置的特权。任何播放机上的特定设置将藐视服务器上的设置，直到他们再由播放机上被修改。如果您希望跳过并单以现有的播放机/伺服器设置生成混音，请选择「不」。
 
 SETUP_MMMSETTINGS
-	CA	Configuració de la barreja de MusicIP
+	CA	Configuració de la mescla de MusicIP
 	CS	Nastavení MusicIP mixu
 	DA	Indstillinger for MusicIP Mix
 	DE	MusicIP-Mix: Einstellungen
@@ -452,7 +452,7 @@ SETUP_MMMSETTINGS
 	ZH_CN	MusicIP混音设置
 
 MUSICMAGIC_MIXRIGHT
-	CA	(Ves a la dreta per barrejar)
+	CA	(Ves a la dreta per mesclar)
 	CS	(Přejít přímo na Mix)
 	DA	(Tryk på højre for at mikse)
 	DE	(Zum Mixen RECHTS drücken)
@@ -530,7 +530,7 @@ SETUP_MUSICMAGIC
 	ZH_CN	MusicIP
 
 SETUP_MUSICMAGIC_DESC
-	CA	El Lyrion Music Server pot utilitzar el vostre programa MusicIP com a font d'informació sobre el títol i el gènere. O el podeu utilitzar per generar barrejes instantànies només a nivell de gènere, artista i cançó. Llegir la informació del títol i el gènere és molt més lent que llegir només l'estat de barrejabilitat, sobretot quan es busca només cançons noves i modificades.
+	CA	El Lyrion Music Server pot utilitzar el vostre programa MusicIP com a font d'informació sobre el títol i el gènere. O el podeu utilitzar per generar mescles instantànies només a nivell de gènere, artista i cançó. Llegir la informació del títol i el gènere és molt més lent que llegir només l'estat de mesclabilitat, sobretot quan es busca només cançons noves i modificades.
 	CS	Lyrion Music Server může použít váš program MusicIP jako zdroj informací o titulech a žánrech. Nebo jej můžete použít pouze k vytvoření okamžitých mixů na úrovni žánrů, interpretů a skladeb. Načtení informací o titulech a žánrech je daleko pomalejší než pouze načtení mixovatelného stavu, obzvláště při prohledávání pouze nových a změněných skladeb.
 	DA	Lyrion Music Server kan bruge MusicIP som kilde til at hente oplysninger om titel og genre. Du kan også fremstille lynmiks baseret på en genre, en kunstner eller et nummer. Det tager længere tid at læse oplysninger om titel og genre end kun at læse oplysninger om miksets status, navnlig når der kun søges efter nye eller ændrede numre.
 	DE	Lyrion Music Server kann MusicIP als Quelle für Titel- und Stilrichtungsangaben verwenden. Sie können es auch dazu nutzen, um nur Instant Mixes auf Stilrichtungs-, Interpreten und Titelebene zu erstellen. Es dauert viel länger, die Titel- und Stilrichtungsangaben zu lesen als nur den mischbaren Status, vor allem wenn Sie nur nach neuen und geänderten Titeln suchen.
@@ -755,7 +755,7 @@ SETUP_MMSPORT_DESC
 	ZH_CN	您可以通过MusicIP的服务应用程序接口来选择用来询问MusicIP应用程序接口的http端口。请在此输入匹配您在MusicIP里已设置好的端口号。
 
 MUSICMAGIC_MIX
-	CA	Barreja MusicIP
+	CA	Mescla MusicIP
 	CS	MusicIP Mix
 	DA	MusicIP Mix
 	DE	MusicIP-Mix
@@ -774,7 +774,7 @@ MUSICMAGIC_MIX
 	ZH_CN	MusicIP混音
 
 MUSICMAGIC_MOODS
-	CA	Barreja d'estats d'ànim de MusicIP
+	CA	Mescla d'estats d'ànim de MusicIP
 	CS	MusicIP Mood Mix (podle nálady)
 	DA	MusicIP Mood Mix
 	DE	MusicIP-Stimmungs-Mix
@@ -793,7 +793,7 @@ MUSICMAGIC_MOODS
 	ZH_CN	MusicIP气氛混音
 
 DEBUG_PLUGIN_MUSICIP
-	CA	Registre de barrejes i exportacions de MusicIP
+	CA	Registre de mescles i exportacions de MusicIP
 	CS	Protokolování MusicIP mixu a Exportu
 	DA	Logføring af MusicIP Mix og eksport
 	DE	MusicIP-Mix & Export
@@ -827,7 +827,7 @@ MUSICIP_PROGRESS
 	SV	MusicIP-import
 
 MUSICIP_PLAYTHISMIX
-	CA	Reproduceix aquesta barreja
+	CA	Reprodueix aquesta mescla
 	CS	Přehrát tento mix
 	DA	Afspil dette miks
 	DE	Diesen Mix wiedergeben
@@ -844,7 +844,7 @@ MUSICIP_PLAYTHISMIX
 	SV	Spela upp den här mixen
 
 MUSICIP_CREATEMIX
-	CA	Crea una barreja MusicIP
+	CA	Crea una mescla MusicIP
 	CS	Vytvořit MusicIP mix
 	DA	Opret MusicIP Mix
 	DE	MusicIP-Mix erstellen
@@ -878,7 +878,7 @@ MUSICIP_READSONGDATA
 	SV	Importera all låtinformation från MusicIP (långsammare)
 
 MUSICIP_MIXABLE_CHECK
-	CA	Només llegeix l'estat de barrejabilitat des de MusicIP (més ràpid)
+	CA	Només llegeix l'estat de mesclabilitat des de MusicIP (més ràpid)
 	CS	Načíst pouze mixovatelný stav z MusicIP (rychlejší)
 	DA	Læs kun miksstatus fra MusicIP (hurtigere)
 	DE	Nur mischbaren Status von MusicIP lesen (schneller)
